@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import time
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+BOT_TOKEN = os.getenv("8932643702:AAFlkU8olEtBwQihXSWkfICIXaQvpdNTu8k")
+CHAT_ID = os.getenv("7785113371")
 
 URL = "https://onlinebanking.rhbgroup.com/"
 CACHE_FILE = "rhb_cache.txt"
