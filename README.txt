@@ -8,8 +8,8 @@ pip install -r requirements.txt
 
 Windows CMD:
 
-set BOT_TOKEN=YOUR_BOT_TOKEN
-set CHAT_ID=YOUR_CHAT_ID
+set BOT_TOKEN=8932643702:AAFlkU8olEtBwQihXSWkfICIXaQvpdNTu8k
+set CHAT_ID=7785113371
 python main.py
 
 Linux / VPS:
