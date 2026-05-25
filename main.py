@@ -66,7 +66,10 @@ def check_update():
 
     else:
         print("No update")
+        
+print("START")
 
+send_telegram("BOT ONLINE")
 
 while True:
     try:
